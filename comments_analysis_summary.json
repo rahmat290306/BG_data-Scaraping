@@ -1,0 +1,111 @@
+{
+    "total_comments_analyzed": 152,
+    "total_likes_on_comments": 1295,
+    "average_likes_per_comment": 8.52,
+    "highest_likes_single_comment": 260,
+    "average_word_count": 8.86,
+    "sentiment_distribution": {
+        "Netral": 112,
+        "Positif": 39,
+        "Negatif": 1
+    },
+    "top_3_liked_comments": [
+        {
+            "author": "Riryn Rahayu",
+            "likes": 260,
+            "text": "Adoo pak wali yang tapele tembok itu bgmn kabar nya"
+        },
+        {
+            "author": "Asriadhy Asriadhy",
+            "likes": 239,
+            "text": "Sy tidak di ajak pak??"
+        },
+        {
+            "author": "Dina Rustam Rahmatu",
+            "likes": 194,
+            "text": "kalo dilihat ulang video nya, dia ikutan lari juga datangi bapak, malu barangkali..aga Saitona langgai, baru te di hitung temannya, ditanya berapa org"
+        }
+    ],
+    "top_20_frequent_words": [
+        {
+            "word": "anak",
+            "frequency": 25
+        },
+        {
+            "word": "wali",
+            "frequency": 22
+        },
+        {
+            "word": "makan",
+            "frequency": 15
+        },
+        {
+            "word": "walikota",
+            "frequency": 13
+        },
+        {
+            "word": "selalu",
+            "frequency": 13
+        },
+        {
+            "word": "pemimpin",
+            "frequency": 11
+        },
+        {
+            "word": "malu",
+            "frequency": 11
+        },
+        {
+            "word": "sehat",
+            "frequency": 11
+        },
+        {
+            "word": "saya",
+            "frequency": 10
+        },
+        {
+            "word": "baik",
+            "frequency": 10
+        },
+        {
+            "word": "pejabat",
+            "frequency": 9
+        },
+        {
+            "word": "semoga",
+            "frequency": 9
+        },
+        {
+            "word": "kota",
+            "frequency": 8
+        },
+        {
+            "word": "tembok",
+            "frequency": 8
+        },
+        {
+            "word": "laki",
+            "frequency": 8
+        },
+        {
+            "word": "banyak",
+            "frequency": 8
+        },
+        {
+            "word": "seperti",
+            "frequency": 7
+        },
+        {
+            "word": "orang",
+            "frequency": 7
+        },
+        {
+            "word": "kdm",
+            "frequency": 7
+        },
+        {
+            "word": "palu",
+            "frequency": 6
+        }
+    ]
+}
